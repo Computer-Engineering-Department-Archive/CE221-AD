@@ -1,2 +1,2 @@
-# CE221-Algo
+# CE221-AD
 Algorithm Design
